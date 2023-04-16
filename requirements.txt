@@ -1,0 +1,4 @@
+selenium
+discord
+webdriver-manager
+nicegui
