@@ -3,7 +3,7 @@
 SkinPortSnipe ist ein Tool zum Tracken von SkinPort Items.<br>
 dockerhub: timpanyy/skinportsnipe
 
-# HOW TO
+### HOW TO
 Discord Webhook als Parameter für Docker mit webhook={discord webhook url}<br>
 Port angeben
 
